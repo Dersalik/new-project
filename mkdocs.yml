@@ -20,8 +20,8 @@ theme:
         name: material
         direction: ltr
         palette:
-          primary: "yellow"
-          accent: "yellow"
+          primary: "green"
+          accent: "blue"
         font:
           text: Roboto
           code: Roboto Mono
